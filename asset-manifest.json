@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tradewithml/static/css/main.a617e044.chunk.css",
+    "main.js": "/tradewithml/static/js/main.44da0117.chunk.js",
+    "main.js.map": "/tradewithml/static/js/main.44da0117.chunk.js.map",
+    "runtime-main.js": "/tradewithml/static/js/runtime-main.d6fbffaf.js",
+    "runtime-main.js.map": "/tradewithml/static/js/runtime-main.d6fbffaf.js.map",
+    "static/js/2.3f23031e.chunk.js": "/tradewithml/static/js/2.3f23031e.chunk.js",
+    "static/js/2.3f23031e.chunk.js.map": "/tradewithml/static/js/2.3f23031e.chunk.js.map",
+    "static/js/3.5bdedc97.chunk.js": "/tradewithml/static/js/3.5bdedc97.chunk.js",
+    "static/js/3.5bdedc97.chunk.js.map": "/tradewithml/static/js/3.5bdedc97.chunk.js.map",
+    "index.html": "/tradewithml/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/tradewithml/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3f23031e.chunk.js.LICENSE.txt": "/tradewithml/static/js/2.3f23031e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tradewithml/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6fbffaf.js",
+    "static/js/2.3f23031e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.44da0117.chunk.js"
+  ]
+}
